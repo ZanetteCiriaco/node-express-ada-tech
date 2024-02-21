@@ -37,5 +37,12 @@ Projeto do módulo node express do curso da Ada tech, trilha backend.
 
     protegidas:
        /user
+       /menu
        /menu/id
+   
+   Exemplo:    
+   https://app.swaggerhub.com/apis-docs/ZANETTECIRIACO_1/API/1.0.0
+
+   Obs.: Utilizar Postman ou Insonmia para fazer as requests (rotas protegidas precisam do header: Authorization token) 
+
 
