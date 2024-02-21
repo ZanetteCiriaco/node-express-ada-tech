@@ -1,5 +1,7 @@
 # node-express-ada-tech
 
+API para Gerenciamento de Cardápios Online. Os usuários podem autenticar-se e gerenciar seus menus.
+
 Projeto do módulo node express do curso da Ada tech, trilha backend.
 
 ## Instruções de Configuração
