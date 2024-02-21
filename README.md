@@ -20,12 +20,13 @@ Projeto do módulo node express do curso da Ada tech, trilha backend.
 
    JWT_SECRET=
    JWT_EXPIRESIN=
-
+   
+2. Instalar o Docker https://www.docker.com/
     
 ## Executar:
     npm install
     docker-compose build
-    docker-compose 
+    docker-compose up
     
 
 ## Rotas
