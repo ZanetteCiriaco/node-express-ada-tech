@@ -30,10 +30,12 @@ Projeto do módulo node express do curso da Ada tech, trilha backend.
     
 
 ## Rotas
-    /auth/register
-    /auth/login
-    /users
-    /user
-    /menu
-    /menu/id
+    públicas:
+       /auth/register
+       /auth/login
+       /users
+
+    protegidas:
+       /user
+       /menu/id
 
